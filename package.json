@@ -1,0 +1,11 @@
+{
+  "name": "server-module",
+  "version": "1.0.0",
+  "description": "\"This is a package for learning the concept of Server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "pankaj",
+  "license": "ISC"
+}
